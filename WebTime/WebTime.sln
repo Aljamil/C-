@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebTime", "WebTime\WebTime.csproj", "{0D7BEBA7-072E-497B-ACBA-C16C0DB25C97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebTime.Tests", "WebTime.Tests\WebTime.Tests.csproj", "{792592F6-CCC9-48E2-BB60-0EF834A7E2A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebControls", "WebControls\WebControls.csproj", "{45BC3A57-1886-43EA-A666-B4C17731AD38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D7BEBA7-072E-497B-ACBA-C16C0DB25C97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D7BEBA7-072E-497B-ACBA-C16C0DB25C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D7BEBA7-072E-497B-ACBA-C16C0DB25C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D7BEBA7-072E-497B-ACBA-C16C0DB25C97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{792592F6-CCC9-48E2-BB60-0EF834A7E2A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{792592F6-CCC9-48E2-BB60-0EF834A7E2A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{792592F6-CCC9-48E2-BB60-0EF834A7E2A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{792592F6-CCC9-48E2-BB60-0EF834A7E2A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45BC3A57-1886-43EA-A666-B4C17731AD38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45BC3A57-1886-43EA-A666-B4C17731AD38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45BC3A57-1886-43EA-A666-B4C17731AD38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45BC3A57-1886-43EA-A666-B4C17731AD38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E38CB832-CCEC-4A65-AA49-F072CE2FB731}
+	EndGlobalSection
+EndGlobal

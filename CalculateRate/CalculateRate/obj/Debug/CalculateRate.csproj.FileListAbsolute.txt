@@ -1,0 +1,10 @@
+C:\Users\franc\Documents\Windows .NET\CalculateRate\CalculateRate\bin\Debug\CalculateRate.exe.config
+C:\Users\franc\Documents\Windows .NET\CalculateRate\CalculateRate\bin\Debug\CalculateRate.exe
+C:\Users\franc\Documents\Windows .NET\CalculateRate\CalculateRate\bin\Debug\CalculateRate.pdb
+C:\Users\franc\Documents\Windows .NET\CalculateRate\CalculateRate\obj\Debug\CalculateRate.csprojAssemblyReference.cache
+C:\Users\franc\Documents\Windows .NET\CalculateRate\CalculateRate\obj\Debug\CalculateRate.Form1.resources
+C:\Users\franc\Documents\Windows .NET\CalculateRate\CalculateRate\obj\Debug\CalculateRate.Properties.Resources.resources
+C:\Users\franc\Documents\Windows .NET\CalculateRate\CalculateRate\obj\Debug\CalculateRate.csproj.GenerateResource.cache
+C:\Users\franc\Documents\Windows .NET\CalculateRate\CalculateRate\obj\Debug\CalculateRate.csproj.CoreCompileInputs.cache
+C:\Users\franc\Documents\Windows .NET\CalculateRate\CalculateRate\obj\Debug\CalculateRate.exe
+C:\Users\franc\Documents\Windows .NET\CalculateRate\CalculateRate\obj\Debug\CalculateRate.pdb

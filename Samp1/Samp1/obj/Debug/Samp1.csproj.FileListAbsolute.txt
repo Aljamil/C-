@@ -1,0 +1,10 @@
+C:\Users\franc\Documents\Windows .NET\Samp1\Samp1\bin\Debug\Samp1.exe.config
+C:\Users\franc\Documents\Windows .NET\Samp1\Samp1\bin\Debug\Samp1.exe
+C:\Users\franc\Documents\Windows .NET\Samp1\Samp1\bin\Debug\Samp1.pdb
+C:\Users\franc\Documents\Windows .NET\Samp1\Samp1\obj\Debug\Samp1.csprojAssemblyReference.cache
+C:\Users\franc\Documents\Windows .NET\Samp1\Samp1\obj\Debug\Samp1.csproj.CoreCompileInputs.cache
+C:\Users\franc\Documents\Windows .NET\Samp1\Samp1\obj\Debug\Samp1.exe
+C:\Users\franc\Documents\Windows .NET\Samp1\Samp1\obj\Debug\Samp1.pdb
+C:\Users\franc\Documents\Windows .NET\Samp1\Samp1\obj\Debug\Samp1.Properties.Resources.resources
+C:\Users\franc\Documents\Windows .NET\Samp1\Samp1\obj\Debug\Samp1.csproj.GenerateResource.cache
+C:\Users\franc\Documents\Windows .NET\Samp1\Samp1\bin\Debug\Welcome.cs

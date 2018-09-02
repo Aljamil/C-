@@ -1,0 +1,6 @@
+C:\Users\franc\Documents\Windows .NET\GenericSamp\GenericSamp\obj\Debug\GenericSamp.csproj.CoreCompileInputs.cache
+C:\Users\franc\Documents\Windows .NET\GenericSamp\GenericSamp\bin\Debug\GenericSamp.exe.config
+C:\Users\franc\Documents\Windows .NET\GenericSamp\GenericSamp\bin\Debug\GenericSamp.exe
+C:\Users\franc\Documents\Windows .NET\GenericSamp\GenericSamp\bin\Debug\GenericSamp.pdb
+C:\Users\franc\Documents\Windows .NET\GenericSamp\GenericSamp\obj\Debug\GenericSamp.exe
+C:\Users\franc\Documents\Windows .NET\GenericSamp\GenericSamp\obj\Debug\GenericSamp.pdb

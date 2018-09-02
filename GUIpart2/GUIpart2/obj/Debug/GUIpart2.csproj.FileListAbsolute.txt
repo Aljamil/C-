@@ -1,0 +1,10 @@
+C:\Users\franc\Documents\Windows .NET\GUIpart2\GUIpart2\bin\Debug\GUIpart2.exe.config
+C:\Users\franc\Documents\Windows .NET\GUIpart2\GUIpart2\bin\Debug\GUIpart2.exe
+C:\Users\franc\Documents\Windows .NET\GUIpart2\GUIpart2\bin\Debug\GUIpart2.pdb
+C:\Users\franc\Documents\Windows .NET\GUIpart2\GUIpart2\obj\Debug\GUIpart2.csprojAssemblyReference.cache
+C:\Users\franc\Documents\Windows .NET\GUIpart2\GUIpart2\obj\Debug\GUIpart2.Form1.resources
+C:\Users\franc\Documents\Windows .NET\GUIpart2\GUIpart2\obj\Debug\GUIpart2.Properties.Resources.resources
+C:\Users\franc\Documents\Windows .NET\GUIpart2\GUIpart2\obj\Debug\GUIpart2.csproj.GenerateResource.cache
+C:\Users\franc\Documents\Windows .NET\GUIpart2\GUIpart2\obj\Debug\GUIpart2.csproj.CoreCompileInputs.cache
+C:\Users\franc\Documents\Windows .NET\GUIpart2\GUIpart2\obj\Debug\GUIpart2.exe
+C:\Users\franc\Documents\Windows .NET\GUIpart2\GUIpart2\obj\Debug\GUIpart2.pdb

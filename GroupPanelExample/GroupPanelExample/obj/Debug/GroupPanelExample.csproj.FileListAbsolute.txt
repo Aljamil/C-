@@ -1,0 +1,10 @@
+C:\Users\franc\Documents\Windows .NET\GroupPanelExample\GroupPanelExample\bin\Debug\GroupPanelExample.exe.config
+C:\Users\franc\Documents\Windows .NET\GroupPanelExample\GroupPanelExample\bin\Debug\GroupPanelExample.exe
+C:\Users\franc\Documents\Windows .NET\GroupPanelExample\GroupPanelExample\bin\Debug\GroupPanelExample.pdb
+C:\Users\franc\Documents\Windows .NET\GroupPanelExample\GroupPanelExample\obj\Debug\GroupPanelExample.GroupPanelExample.resources
+C:\Users\franc\Documents\Windows .NET\GroupPanelExample\GroupPanelExample\obj\Debug\GroupPanelExample.Properties.Resources.resources
+C:\Users\franc\Documents\Windows .NET\GroupPanelExample\GroupPanelExample\obj\Debug\GroupPanelExample.csproj.GenerateResource.cache
+C:\Users\franc\Documents\Windows .NET\GroupPanelExample\GroupPanelExample\obj\Debug\GroupPanelExample.csproj.CoreCompileInputs.cache
+C:\Users\franc\Documents\Windows .NET\GroupPanelExample\GroupPanelExample\obj\Debug\GroupPanelExample.exe
+C:\Users\franc\Documents\Windows .NET\GroupPanelExample\GroupPanelExample\obj\Debug\GroupPanelExample.pdb
+C:\Users\franc\Documents\Windows .NET\GroupPanelExample\GroupPanelExample\obj\Debug\GroupPanelExample.csprojAssemblyReference.cache

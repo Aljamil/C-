@@ -1,0 +1,10 @@
+C:\Users\franc\Documents\Windows .NET\DateTest\DateTest\bin\Debug\DateTest.exe.config
+C:\Users\franc\Documents\Windows .NET\DateTest\DateTest\bin\Debug\DateTest.exe
+C:\Users\franc\Documents\Windows .NET\DateTest\DateTest\bin\Debug\DateTest.pdb
+C:\Users\franc\Documents\Windows .NET\DateTest\DateTest\obj\Debug\DateTest.csprojAssemblyReference.cache
+C:\Users\franc\Documents\Windows .NET\DateTest\DateTest\obj\Debug\DateTest.Properties.Resources.resources
+C:\Users\franc\Documents\Windows .NET\DateTest\DateTest\obj\Debug\DateTest.csproj.GenerateResource.cache
+C:\Users\franc\Documents\Windows .NET\DateTest\DateTest\obj\Debug\DateTest.csproj.CoreCompileInputs.cache
+C:\Users\franc\Documents\Windows .NET\DateTest\DateTest\obj\Debug\DateTest.exe
+C:\Users\franc\Documents\Windows .NET\DateTest\DateTest\obj\Debug\DateTest.pdb
+C:\Users\franc\Documents\Windows .NET\DateTest\DateTest\obj\Debug\DateTest.dateForm.resources

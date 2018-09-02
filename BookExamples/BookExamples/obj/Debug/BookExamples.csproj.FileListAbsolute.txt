@@ -1,0 +1,14 @@
+C:\Users\franc\Documents\Windows .NET\BookExamples\BookExamples\bin\Debug\Books.mdf
+C:\Users\franc\Documents\Windows .NET\BookExamples\BookExamples\bin\Debug\Books_log.ldf
+C:\Users\franc\Documents\Windows .NET\BookExamples\BookExamples\bin\Debug\EntityFramework.dll
+C:\Users\franc\Documents\Windows .NET\BookExamples\BookExamples\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\franc\Documents\Windows .NET\BookExamples\BookExamples\bin\Debug\EntityFramework.xml
+C:\Users\franc\Documents\Windows .NET\BookExamples\BookExamples\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\franc\Documents\Windows .NET\BookExamples\BookExamples\obj\Debug\BookExamples.csproj.CoreCompileInputs.cache
+C:\Users\franc\Documents\Windows .NET\BookExamples\BookExamples\obj\Debug\BookExamples.csproj.CopyComplete
+C:\Users\franc\Documents\Windows .NET\BookExamples\BookExamples\obj\Debug\BookExamples.dll
+C:\Users\franc\Documents\Windows .NET\BookExamples\BookExamples\obj\Debug\BookExamples.pdb
+C:\Users\franc\Documents\Windows .NET\BookExamples\BookExamples\bin\Debug\BookExamples.dll.config
+C:\Users\franc\Documents\Windows .NET\BookExamples\BookExamples\bin\Debug\BookExamples.dll
+C:\Users\franc\Documents\Windows .NET\BookExamples\BookExamples\bin\Debug\BookExamples.pdb
+C:\Users\franc\Documents\Windows .NET\BookExamples\BookExamples\obj\Debug\BookExamples.csprojAssemblyReference.cache

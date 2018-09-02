@@ -1,0 +1,10 @@
+C:\Users\franc\Documents\Windows .NET\SimpleEventExample\SimpleEventExample\bin\Debug\SimpleEventExample.exe.config
+C:\Users\franc\Documents\Windows .NET\SimpleEventExample\SimpleEventExample\bin\Debug\SimpleEventExample.exe
+C:\Users\franc\Documents\Windows .NET\SimpleEventExample\SimpleEventExample\bin\Debug\SimpleEventExample.pdb
+C:\Users\franc\Documents\Windows .NET\SimpleEventExample\SimpleEventExample\obj\Debug\SimpleEventExample.csprojAssemblyReference.cache
+C:\Users\franc\Documents\Windows .NET\SimpleEventExample\SimpleEventExample\obj\Debug\SimpleEventExample.SimpleEvent.resources
+C:\Users\franc\Documents\Windows .NET\SimpleEventExample\SimpleEventExample\obj\Debug\SimpleEventExample.Properties.Resources.resources
+C:\Users\franc\Documents\Windows .NET\SimpleEventExample\SimpleEventExample\obj\Debug\SimpleEventExample.csproj.GenerateResource.cache
+C:\Users\franc\Documents\Windows .NET\SimpleEventExample\SimpleEventExample\obj\Debug\SimpleEventExample.csproj.CoreCompileInputs.cache
+C:\Users\franc\Documents\Windows .NET\SimpleEventExample\SimpleEventExample\obj\Debug\SimpleEventExample.exe
+C:\Users\franc\Documents\Windows .NET\SimpleEventExample\SimpleEventExample\obj\Debug\SimpleEventExample.pdb

@@ -1,0 +1,10 @@
+C:\Users\franc\Documents\Windows .NET\OtherGUI\OtherGUI\obj\Debug\OtherGUI.SampleTreeView.resources
+C:\Users\franc\Documents\Windows .NET\OtherGUI\OtherGUI\obj\Debug\OtherGUI.Properties.Resources.resources
+C:\Users\franc\Documents\Windows .NET\OtherGUI\OtherGUI\obj\Debug\OtherGUI.csproj.GenerateResource.cache
+C:\Users\franc\Documents\Windows .NET\OtherGUI\OtherGUI\obj\Debug\OtherGUI.csproj.CoreCompileInputs.cache
+C:\Users\franc\Documents\Windows .NET\OtherGUI\OtherGUI\bin\Debug\OtherGUI.exe.config
+C:\Users\franc\Documents\Windows .NET\OtherGUI\OtherGUI\bin\Debug\OtherGUI.exe
+C:\Users\franc\Documents\Windows .NET\OtherGUI\OtherGUI\bin\Debug\OtherGUI.pdb
+C:\Users\franc\Documents\Windows .NET\OtherGUI\OtherGUI\obj\Debug\OtherGUI.exe
+C:\Users\franc\Documents\Windows .NET\OtherGUI\OtherGUI\obj\Debug\OtherGUI.pdb
+C:\Users\franc\Documents\Windows .NET\OtherGUI\OtherGUI\obj\Debug\OtherGUI.ChildTree.resources
