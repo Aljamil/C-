@@ -1,0 +1,14 @@
+C:\Users\franc\Documents\Windows .NET\Addresses\Addresses\bin\Debug\AddressBook.mdf
+C:\Users\franc\Documents\Windows .NET\Addresses\Addresses\bin\Debug\AddressBook_log.ldf
+C:\Users\franc\Documents\Windows .NET\Addresses\Addresses\bin\Debug\EntityFramework.dll
+C:\Users\franc\Documents\Windows .NET\Addresses\Addresses\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\franc\Documents\Windows .NET\Addresses\Addresses\bin\Debug\EntityFramework.xml
+C:\Users\franc\Documents\Windows .NET\Addresses\Addresses\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\franc\Documents\Windows .NET\Addresses\Addresses\obj\Debug\Addresses.csproj.CoreCompileInputs.cache
+C:\Users\franc\Documents\Windows .NET\Addresses\Addresses\obj\Debug\Addresses.csproj.CopyComplete
+C:\Users\franc\Documents\Windows .NET\Addresses\Addresses\obj\Debug\Addresses.dll
+C:\Users\franc\Documents\Windows .NET\Addresses\Addresses\obj\Debug\Addresses.pdb
+C:\Users\franc\Documents\Windows .NET\Addresses\Addresses\bin\Debug\Addresses.dll.config
+C:\Users\franc\Documents\Windows .NET\Addresses\Addresses\bin\Debug\Addresses.dll
+C:\Users\franc\Documents\Windows .NET\Addresses\Addresses\bin\Debug\Addresses.pdb
+C:\Users\franc\Documents\Windows .NET\Addresses\Addresses\obj\Debug\Addresses.csprojAssemblyReference.cache
